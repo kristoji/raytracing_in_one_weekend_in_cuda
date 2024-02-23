@@ -1,4 +1,4 @@
-# cuda_raytracing_in_one_weekend
+# Raytracing In One Weekend in CUDA
 
 
 The aim of the project is to implement a simple raytracer in Cuda, following the book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).  
