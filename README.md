@@ -1,13 +1,14 @@
 # cuda_raytracing_in_one_weekend
 
 
-The aim of the project is to implement a simple raytracer in Cuda, following the book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html). 
-The guide [Accelerated Ray Tracing in One Weekend](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/) was a useful starting point. 
-[tde-nico](https://github.com/tde-nico) and I worked on this project for the course of "Multicore and Embedded Programming" at the University of Rome, La Sapienza. You can find the report in the folder of the same name and the video we used as demo.
+The aim of the project is to implement a simple raytracer in Cuda, following the book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).  
+The guide [Accelerated Ray Tracing in One Weekend](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/) was a useful starting point.  
+
+[tde-nico](https://github.com/tde-nico) and I worked on this project for the course of "Multicore and Embedded Programming" at the University of Rome, La Sapienza. You can find the report in the folder of the same name and the video we used as demo.  
 
 
 <!-- add image from  data/samples-code -->
-![Sample](./data/samples-codes/tramonto6.ppm)
+![Sample](./report/source/figures/giorno.png)  
 
 
 ## Requirements
@@ -42,5 +43,5 @@ Here there are some files we used to test the raytracer. In old-codes you can fi
 
 ### Scenery
 
-In order to change the scenery, you can directly change the *create_world* where all the objects are defined. You can also find some examples in the data/samples-code folder.
+In order to change the scenery, you can directly change the *create_world* where all the objects are defined. You can also find some examples in the *data/samples-code* folder or in the *report/source/figures/*.
 
