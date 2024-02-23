@@ -7,7 +7,6 @@ The guide [Accelerated Ray Tracing in One Weekend](https://developer.nvidia.com/
 [tde-nico](https://github.com/tde-nico) and I worked on this project for the course of "Multicore and Embedded Programming" at the University of Rome, La Sapienza. You can find the report in the folder of the same name and the video we used as demo.  
 
 
-<!-- add image from  data/samples-code -->
 ![Sample](./report/source/figures/giorno.png)  
 
 
@@ -45,3 +44,4 @@ Here there are some files we used to test the raytracer. In old-codes you can fi
 
 In order to change the scenery, you can directly change the *create_world* where all the objects are defined. You can also find some examples in the *data/samples-code* folder or in the *report/source/figures/*.
 
+![Tramonto](./report/source/figures/tramonto6.png) 
