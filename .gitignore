@@ -1,0 +1,9 @@
+# dirs
+.vscode/
+objs/
+docs/
+vids/
+
+# files
+ray
+image.ppm
